@@ -1,0 +1,83 @@
+body {
+  background-image: url(pesawat.jpg);
+  background-size: cover;
+}
+#form {
+  background-color: #000;
+  height: 380px;
+  width: 900px;
+  margin: auto;
+  padding: 20px;
+  opacity: 0.7;
+}
+#form h3 {
+  border-bottom: 2px solid #3399ff;
+  width: 210px;
+  padding: 5px;
+}
+::placeholder {
+  color: #fff;
+}
+#input #input-group {
+  width: 300px;
+  margin: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+#input4 #input-group {
+  width: 300px;
+  margin: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+#input4 #input-group1 {
+  width: 615px;
+  margin: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+#input5 h3 {
+  border-bottom: 2px solid #5da4eb;
+  width: 220px;
+  padding: 5px;
+}
+#input6 #input-group {
+  width: 300px;
+  margin: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+#input6 #input-group1 {
+  width: 615px;
+  margin: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+#penerbangan {
+  background-color: #000;
+  text-decoration-color: #fff;
+  height: 150px;
+  width: 900px;
+  margin: auto;
+  opacity: 0.7;
+}

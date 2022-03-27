@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Gopal",
+        "phone": "123",
+        "email": "abc@xyz.com",
+        "airline": "Lion Air",
+        "origin": "Soekarno Hatta",
+        "destination": "Ngurai Rai",
+        "price": "370000",
+        "tax": 130000,
+        "total": 500000
+    },
+]

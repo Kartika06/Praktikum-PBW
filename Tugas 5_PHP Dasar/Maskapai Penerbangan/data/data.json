@@ -1,0 +1,18 @@
+[
+    {
+        "maskapai": "Lion Air",
+        "asal_penerbangan": "Soekarno Hatta",
+        "tujuan_penerbangan": "Ngurai Rai",
+        "harga_tiket": "370000",
+        "pajak": 130000,
+        "total_harga": 500000
+    },
+    {
+        "maskapai": "kartika",
+        "asal_penerbangan": "Soekarno Hatta",
+        "tujuan_penerbangan": "Ngurai Rai",
+        "harga_tiket": "1000000",
+        "pajak": 130000,
+        "total_harga": 1130000
+    }
+]
