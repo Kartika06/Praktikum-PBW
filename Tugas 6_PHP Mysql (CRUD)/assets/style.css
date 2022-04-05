@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+body {
+  font-weight: 800;
+}
+
+h1 {
+  font-weight: 900;
+  margin-left: 100px;
+  color: blue;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+:root {
+  --primary-color: #3476e7;
+  --secondary-color: #5e91e9;
+  --third-color: #f98169;
+  --white-color: #fff;
+  --text-color: #555;
+  --text-grey: #999;
+  --black-color: #000;
+  --primary-font: "poppins", sans-serif;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--primary-color) !important;
+}
+
+body {
+  font-family: var(--primary-font);
+  font-size: 100%;
+  font-weight: 400;
+}
+
+.navbar .nav-item .nav-link {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-color);
+}
